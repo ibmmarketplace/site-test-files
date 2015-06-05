@@ -1,0 +1,10 @@
+{
+  "name": "site-test-files",
+  "main": [
+    "sla-test-object.html",
+    "sureroute-test-object.html"
+  ],
+  "ignore": [
+    "README.md"
+  ]
+}
