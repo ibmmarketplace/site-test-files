@@ -1,0 +1,9 @@
+{
+  "name": "site-test-files",
+  "version": "0.2.0",
+  "description": "CDN site test files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibmmarketplace/site-test-files.git"
+  }
+}
